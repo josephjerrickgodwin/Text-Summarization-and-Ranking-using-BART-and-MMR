@@ -1,0 +1,10 @@
+-------------------------------------------------------
+Text Summarization - Process Summary
+-------------------------------------------------------
+Similarity Algorithm  : Cosine Similarity
+Clustering Algorithm  : Kmeans
+BERT Model            : bart-large-cnn
+Input Length          : 28360 words
+Summary Length        : 751 words
+Redundancy            : 97.0%Total Elapsed Time    : 0:13:39.065727
+-------------------------------------------------------
